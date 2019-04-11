@@ -3,6 +3,8 @@
 **The virtual prayer beads app.**
 This app can be useful in mentally repeating a mantra or name of a deity.
 
+<img src="./preview/prayerBeadsGIF.gif" height="600" alt="Screenshot"/>
+
 
 ## How to use
 
